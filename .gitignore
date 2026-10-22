@@ -16,3 +16,7 @@ dist/
 # Editor e sistema
 .vscode/
 .DS_Store
+
+instance/
+__pycache__/
+*.pyc
